@@ -1,0 +1,16 @@
+# Ignore system files
+.bash_history
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.vscode/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+OneDrive/
+ntuser.*
